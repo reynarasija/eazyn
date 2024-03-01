@@ -56,7 +56,7 @@ $run_sql = mysqli_query($is_connect, $query);
                 <span>
                   <i class="ti ti-file-description"></i>
                 </span>
-                <span class="hide-menu">Buat Izin</span>
+                <span class="hide-menu">NARA MANDI</span>
               </a>
             </li>
             <li class="sidebar-item">
