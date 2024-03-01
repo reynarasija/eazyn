@@ -1,5 +1,3 @@
-
-
 <?php
 require_once("config/connect.php");
 $query = "select izin.*, guru.nama as nama_guru, bk.nama as nama_bk from izin inner join guru on
